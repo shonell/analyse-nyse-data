@@ -1,5 +1,11 @@
 # analyse-nyse-data
-the basics of the project that  For the final project, you will conduct three tasks: 1) complete your own data analysis and create a presentation to share your findings, 2) develop a dashboard for a Profit and Loss Statement, and 3) create a Financial Forecasting Model using three scenarios. You should start by taking a look at your dataset and brainstorming which sub-category and company you want to focus your data analysis on - the questions leading to this page should have assisted in this process! Then you should use spreadsheets or another Excel-like software to conduct your analysis and choose a sub-category and company you are most interested in. This project is open-ended in that there is no one right answer.
+the basics of the project that  
+For the final project, i conducted three tasks: 
+1) complete your own data analysis and create a presentation to share your findings, 
+2) develop a dashboard for a Profit and Loss Statement, 
+3) and 3) create a Financial Forecasting Model using three scenarios.
+4) You should start by taking a look at your dataset and brainstorming which sub-category and company you want to focus your data analysis on - the questions leading to this page should have assisted in this process! Then you should use spreadsheets or another Excel-like software to conduct your analysis and choose a sub-category and company you are most interested in.
+5)  This project is open-ended in that there is no one right answer.
 
 listing out how to go about the project.
 
