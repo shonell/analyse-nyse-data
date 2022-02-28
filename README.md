@@ -1,4 +1,4 @@
-# analyse-nyse-data
+# analyse-NYSE S&P-data
 the basics of the project that  
 For the final project, i conducted three tasks: 
 1) complete your own data analysis and create a presentation to share your findings, 
